@@ -1,9 +1,5 @@
 # Semana Omnistack 10
 
-Repositório com a aplicação criada durante a semana Omnistack 10, onde será desenvolvido uma aplicação chamada DevRadar, onde o objetivo é realizar um cadastro de desenvolvedor em um frontend web com React.JS, através do username do github desse usuário, suas tecnologias favoritas e sua localização geográfica. A partir daí, será possível através do app mobile em React Native, encontrar usuários próximos a localização atual do device e filtrar esses devs por suas tecnologias. A exibição de devs é atualizada em realtime no mapa da aplicação mobile, tornando a aplicação mais fluida.
-
-Ao selecionar um dev no mapa, será aberto o perfil do github do mesmo.
-
 <h5 align="center">
   :rocket: <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   💻 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
@@ -12,8 +8,6 @@ Ao selecionar um dev no mapa, será aberto o perfil do github do mesmo.
   :memo:<a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   :phone: <a href="#phone-contato">Contato</a>
 </h5>
-
-<!--<img src="https://github.com/radaelilucca/FinDevs/blob/master/Assets/FindevsToReadme.png?raw=true" width=990px />-->
 
 ## :rocket: Tecnologias
 
@@ -32,10 +26,8 @@ O objetivo é realizar um cadastro de desenvolvedor em um frontend web com React
 
 Ao selecionar um dev no mapa, será aberto o perfil do github do mesmo.
 
-O FinDevs é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
+O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
 Desenvolvido durante a Semana Omnistack 10.0 da [Rocketseat](https://rocketseat.com.br/)
-
-<!--<a href="https://rocketseat.com.br/">Rocketseat</a>!-->
 
 <h3> 📱 Imagens do Projeto Mobile </br> </br>
 <!--<p  align="center">
