@@ -28,10 +28,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O FinDevs é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
-Desenvolvido durante a Semana Omnistack 10.0 da 
+O objetivo é realizar um cadastro de desenvolvedor em um frontend web com React.JS, através do username do github desse usuário, suas tecnologias favoritas e sua localização geográfica. A partir daí, será possível através do app mobile em React Native, encontrar usuários próximos a localização atual do device e filtrar esses devs por suas tecnologias. A exibição de devs é atualizada em realtime no mapa da aplicação mobile, tornando a aplicação mais fluida.
 
-<a href="https://rocketseat.com.br/">Rocketseat</a>!
+Ao selecionar um dev no mapa, será aberto o perfil do github do mesmo.
+
+O FinDevs é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
+Desenvolvido durante a Semana Omnistack 10.0 da [Rocketseat](https://rocketseat.com.br/)
+
+<!--<a href="https://rocketseat.com.br/">Rocketseat</a>!-->
 
 <h3> 📱 Imagens do Projeto Mobile </br> </br>
 <!--<p  align="center">
@@ -49,7 +53,7 @@ Desenvolvido durante a Semana Omnistack 10.0 da
 Execute o comando yarn nas pastas do projeto para baixar todas as depêndencias necesárias para rodar a aplicação.
 
 ```yarn
-    yarn
+yarn
 ```
 
 ## Inicie o projeto em modo desenvolvimento com os seguintes comandos
