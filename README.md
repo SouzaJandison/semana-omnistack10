@@ -13,9 +13,7 @@ Ao selecionar um dev no mapa, será aberto o perfil do github do mesmo.
   :phone: <a href="#phone-contato">Contato</a>
 </h5>
 
- </br>
- 
-<img src="https://github.com/radaelilucca/FinDevs/blob/master/Assets/FindevsToReadme.png?raw=true" width=990px />
+<!--<img src="https://github.com/radaelilucca/FinDevs/blob/master/Assets/FindevsToReadme.png?raw=true" width=990px />-->
 
 ## :rocket: Tecnologias
 
@@ -35,80 +33,45 @@ Desenvolvido durante a Semana Omnistack 10.0 da
 
 <a href="https://rocketseat.com.br/">Rocketseat</a>!
 
-<p> Acesse a versão web em: <a href="https://bit.ly/36o1TwB"> FinDevs Web</a>! </p>
-<p>Baixe a versão mobile na <a href="https://lnkd.in/eSWXRuy"> Google Play Store </a>!</p>
-
 <h3> 📱 Imagens do Projeto Mobile </br> </br>
-  <p  align="center">
-<img src="https://github.com/radaelilucca/FinDevs/blob/master/Assets/PromoToReadme.png?raw=true" width=70% />
-  </p>
- </h3>
- 
- <h3> 🖱️ Imagem do Projeto Web </br> </br>
-  <p  align="center">
-<img src="https://github.com/radaelilucca/FinDevs/blob/master/Assets/Web.png?raw=true" width=90% />
-  </p>
- </h3>
+<!--<p  align="center">
+    <img src="https://github.com/radaelilucca/FinDevs/blob/master/Assets/PromoToReadme.png?raw=true" width=70% />
+</p>-->
+</h3>
+<h3> 🖱️ Imagem do Projeto Web </br> </br>
+    <!--<p align="center">
+        <img src="https://github.com/radaelilucca/FinDevs/blob/master/Assets/Web.png?raw=true" width=90% />
+    </p>-->
+</h3>
 
 ## 👨‍🏫 Executando
 
 Execute o comando yarn nas pastas do projeto para baixar todas as depêndencias necesárias para rodar a aplicação.
 
-<h4> Inicie o projeto em modo desenvolvimento com os seguintes comandos: </h4>
+```yarn
+    yarn
+```
 
-<h4> Front-end: </h4>
+## Inicie o projeto em modo desenvolvimento com os seguintes comandos
 
-````
+### Front-end
+
+````yarn
 yarn start
 ````
 
-<h4> Back-end: </h4>
+### Back-end
 
-````
+````yarn
 yarn dev
 ````
-<h5>
-Para testes, utilize um client de requisições http, como Insomnia ou Postman, e um banco de dados Mongo, local, com Docker ou online com o MongoDb Atlas.
-</h5>
   
-<h4> Mobile: </h4>
+### Mobile
 
-````
+````yarn
 expo start
 ````
 
-<h5> 
+<!--<h5> 
 Para testes, utilize dispositivo físico, ou emuladores como o Simulador do XCode para iOS, ou AVD do AndroidStudio para Android. 
-</h5>
-
-## 🏗️ Buildando o Aplicativo Móvel
-  
-Para buildar o aplicativo em APK ou IPA, é necessário preencher devidamente o arquivo App.Json. Consulte as instruções nas <a href="https://docs.expo.io/versions/latest/distribution/building-standalone-apps/">Documentações do Expo </a> para mais informações.  
-Neste passo, é de suma importância usar uma Google Api Key correta, caso contrário o mapa não funcionará em dispositivos Android.
-
-<h4> 🚩Lembre-se de renomear o arquivo .env.example para .env, e preencher as variáveis de ambiente. </h4>
-</br>
-
-## ➕ Como contribuir
-- Primeiramente deixe uma ⭐! 
-- Faça um fork dos repositórios em produção, pois estes estão atualizados: <a href="https://github.com/radaelilucca/findevs-backend">Back-end</a> | <a href="https://github.com/radaelilucca/findevs-frontend">Front-end</a> | <a href="https://github.com/radaelilucca/findevs-mobile">Mobile</a>;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
-
- ## :phone: Contato 
-
- 
- <h4>Gostou do Projeto e quer conversar sobre? Me chama pra gente trocar uma idéia! </h4>
-  
-  
-  <p>
-    <a href="https://www.linkedin.com/in/luccaradaeli/">
-      <img src="https://github.com/radaelilucca/FinDevs/blob/master/Assets/Linkedin.png?raw=true" width=15%/> 
-      </a>
-  </p>
+</h5>-->
